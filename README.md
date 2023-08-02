@@ -115,10 +115,6 @@ channel - to get list of total connected channels
 broadcast - to broadcast a message to all Eva Maria users
 
 
-clear_junk - clear all delete account & blocked account in database 
-clear_junk_group - clear add removed group or deactivated groups on db
-```
-
 ## TELAGRAM SUPPORT 
 
 * [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
